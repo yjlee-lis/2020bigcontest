@@ -9,3 +9,4 @@ big contest 퓨처스리그
 Big contact
 ## Members
 김민영
+김동현
