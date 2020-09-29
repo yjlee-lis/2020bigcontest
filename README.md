@@ -1,15 +1,4 @@
 # 2020bigcontest
-big contest 퓨처스리그
 
-- 기간 : 2020년 8/3 ~ 9/28
-- 데이터 설명 링크 :  https://bigcontest.or.kr/points/content.php#ct04
+<img width="702" alt="표지" src="https://user-images.githubusercontent.com/61506233/94525753-83281680-026f-11eb-8f1b-043e5d73d01f.png">
 
-
-## Team
-Big contact
-## Members
-김민영
-김동현
-임창건
-이윤정
-남상대
