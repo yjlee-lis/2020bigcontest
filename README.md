@@ -87,7 +87,7 @@
     * Tree Model : `Random Forest`, `LGBM`
     * `LSTM`, `DNN`      
 
-cf. 모델 검증 후 선정된 모델 :  `진하게` 표시 
+cf. 모델 검증 후 선정된 모델 :  `` 표시 
 
 <br/>
 
