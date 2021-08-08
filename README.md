@@ -30,7 +30,7 @@
 
 
 ### **1.4 수상** 
-- 최우수상 부문 [한국지능정보사회진흥원장](https://www.bigcontest.or.kr/introduce/history2020.php) 
+- 최우수상 부문 [한국지능정보사회진흥원장상](https://www.bigcontest.or.kr/introduce/history2020.php) 
 
 <br/>
 <br/>
